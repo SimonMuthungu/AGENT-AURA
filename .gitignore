@@ -1,1 +1,5 @@
 aura/
+.env
+.git
+.gitignore
+dbtest.py
