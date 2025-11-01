@@ -1,7 +1,7 @@
 
 # **The Aura Engine**
 
-**THIS IS AN AGENT THAT** provides **Autonomous Resource Allocation (Aura)** recommendations by consolidating critical project health data from disparate sources. It acts as the "FinOps Controller," giving Project Managers real-time, high-stakes budget and velocity insights.
+THIS IS AN AUTONOMOUS LANGRAPH AGENT THAT provides **Autonomous Resource Allocation (AURA)** recommendations by consolidating critical project health data from disparate sources. It acts as the "FinOps Controller," giving Project Managers real-time, high-stakes budget and velocity insights.
 
 ### 🎯 Key Business Value
 
