@@ -15,3 +15,6 @@ THIS IS AN AUTONOMOUS LANGRAPH AGENT THAT provides **Autonomous Resource Allocat
 | **Tool Calling/Data Integrity** | **Pydantic**                       | Proves ability to enforce strict data schemas, essential for production systems and finance-related data.                             |
 | **Data Simulation**             | **Supabase/PostgreSQL**            | Demonstrates full-stack understanding by simulating HRIS, PM, and Finance APIs using a single, scalable cloud database.               |
 | **Debugging/Testing**           | **LangSmith Integration**(Planned) | Highlights commitment to engineering rigor: the ability to trace, debug, and test agent logic for reliable, "heavy-load" performance. |
+
+
+Find and interact with the agent here: https://agent-aura.vercel.app/aura-agent/playground/
