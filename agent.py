@@ -174,8 +174,8 @@ aura = create_agent(
     ) 
 
 
-result = aura.invoke(
-    {"messages": [{"role": "user", "content": "what is the project status as of now for project ID Q3_REDESIGN. Is the company on track to achieve its goals within its budget?"}]}
-)
+# result = aura.invoke(
+#     {"messages": [{"role": "user", "content": "what is the project status as of now for project ID Q3_REDESIGN. Is the company on track to achieve its goals within its budget?"}]}
+# )
 
-print(f"\n\n{result['messages'][-1].content}\n")
+# print(f"\n\n{result['messages'][-1].content}\n")
